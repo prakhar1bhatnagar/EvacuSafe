@@ -1,0 +1,15 @@
+{
+  "name": "evacusafe",
+  "version": "1.0.0",
+  "description": "Smart Emergency Evacuation System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "author": "Your Name (or Team Name)",
+  "license": "MIT"
+}
